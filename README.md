@@ -23,7 +23,7 @@ This project is written in ***Python 3.8*** with the following libraries:
 
 ## Usage
 
-After cloning the repository, go to google colab and open the file ***forecasting_net_prophet_coded.ipynb***. 
+After cloning the repository, open the file ***forecasting_net_prophet_final.ipynb*** from google colab and run the program.
 
 ## Contributors
 
