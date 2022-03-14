@@ -1,5 +1,5 @@
 # Forecasting Net Prophet
-With over 200 million users, MercadoLibre is the most popular e-commerce site in Latin America. we are  tasked with analyzing the company's financial and user data in clever ways to make the company grow. We want to find out if the ability to predict search traffic can translate into the ability to successfully trade the stock.
+With over 200 million users, MercadoLibre is the most popular e-commerce site in Latin America. We are  tasked with analyzing the company's financial and user data in clever ways to make the company grow. We want to find out if the ability to predict search traffic can translate into the ability to successfully trade the stock.
 
 ## Technologies
 
