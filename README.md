@@ -1,5 +1,5 @@
 # Forecasting Net Prophet
-With over 200 million users, MercadoLibre is the most popular e-commerce site in Latin America. we are  tasked with analyzing the company's financial and user data in clever ways to make the company grow. We want to find out if the ability to predict search traffic can translate into the ability to successfully trade the stock.
+With over 200 million users, MercadoLibre is the most popular e-commerce site in Latin America. We are  tasked with analyzing the company's financial and user data in clever ways to make the company grow. We want to find out if the ability to predict search traffic can translate into the ability to successfully trade the stock.
 
 ## Technologies
 
@@ -23,7 +23,7 @@ This project is written in ***Python 3.8*** with the following libraries:
 
 ## Usage
 
-After cloning the repository, go to google colab and open the file ***forecasting_net_prophet_coded.ipynb***. 
+After cloning the repository, open the file ***forecasting_net_prophet_final.ipynb*** from google colab and run the program.
 
 ## Contributors
 
